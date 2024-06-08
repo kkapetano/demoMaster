@@ -1,0 +1,5 @@
+1: Ovo je info datoteka za sve promjene u mapi Projekti
+2: Tu cemo navoditi koje projekte imamo
+3: Osigurati cemo agregirani i smisleni opis za svaki projekt 
+4:
+5: Prethodnu liniju smo namjerno preskocili ali ovo pisite
