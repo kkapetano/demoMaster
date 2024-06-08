@@ -1,9 +1,10 @@
 1: Ovo je info datoteka za sve promjene u mapi Projekti
 2: Tu cemo navoditi koje projekte imamo
 3: Osigurati cemo agregirani i smisleni opis za svaki projekt 
-4:
-5: Prethodnu liniju smo namjerno preskocili ali ovo pisite
+4: Novi tekst dodan lokalno u liniji 4
+5: Prethodnu liniju smo slucajno preskocili ali ovo pisite
 6: Nova linija dodana iz github editora 
 7:
 8:
 9:Preskocili smo namjerno 7 i 8 liniju
+10:Za sada je 10 posljednja linija
